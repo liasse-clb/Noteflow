@@ -1,50 +1,50 @@
-# Welcome to your Expo app 👋
+# Seja bem vindo ao NoteFlow
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+ ![[Noteflow-logo (1).png]]
 
-## Get started
+Ao ver a minha necessidade por um bloco de notas que suprisse as minhas necessidades, testei e usei vários blocos de notas, porém sempre vi que faltava alguma coisa para que minhas anotações fossem perfeitas e que fosse possível organizar a minha vida da melhor maneira neste aplicativo.
+Quando eu usava um app de anotações sempre sentia falta de alguma função de outro app, então tive a ideia de reunir as funções que eu tanto queria em um único aplicativo. Assim nasceu o 
 
-1. Install dependencies
+<span style="color: #0055FF; font-size: 3rem; font-family: inter; font-weight: 900">NoteFlow!</span>
+#### NoteFlow é o aplicativo completo para as suas **anotações**: 
 
-   ```bash
-   npm install
-   ```
+✔️ Notas sincronizadas na nuvem (conta do Google)  - [Notas](#Notas)
+✔️ Modo canvas - [Modo Canvas](#Modo canvas)
+✔️ Notas adesivas e lembretes - [Notas Adesivas e Lembretes](#Notas Adesivas e Lembretes)
+✔️ Desenho dentro das anotações - [Desenhos](#Desenhos)
+✔️ Calendário - [Calendário](#Calendário)
+✔️ Personalização do fundo das anotações - [Fundo Personalizado](#Fundos Personalizados)
+✔️ Exportar para PDF, PNG ou texto - [Exportações](#Exportações)
+✔️ Formatação de texto completa - [Formatação](#Formatação)
+✔️ Pode inserir imagens e gravar áudios! - [Imagens e Áudios](#Imagens e Áudios )
+✔️ Notas organizadas em pastas - [Pastas](#Pastas)
+✔️ Listas - [Listas](#Listas)
+✔️ Use de qualquer dispositivo - [Conectividade](#Conectividade)
 
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+# Notas 
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+# Modo Canvas
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+# Notas Adesivas e Lembretes 
 
-## Get a fresh project
+# Desenhos
 
-When you're ready, run:
+# Calendário 
 
-```bash
-npm run reset-project
-```
+# Fundo personalizado 
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+# Exportações 
 
-## Learn more
+# Formatações 
 
-To learn more about developing your project with Expo, look at the following resources:
+# Imagens e Áudios
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+# Pastas 
 
-## Join the community
+# Listas 
 
-Join our community of developers creating universal apps.
+# Conectividade
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
