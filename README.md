@@ -9,17 +9,29 @@ Quando eu usava um app de anotações sempre sentia falta de alguma função de 
 #### NoteFlow é o aplicativo completo para as suas **anotações**: 
 
 ✔️ Notas sincronizadas na nuvem (conta do Google)  - [Notas](#Notas)
-✔️ Modo canvas - [Modo Canvas](#Modo canvas)
+
+✔️ Modo canvas - [Modo Canvas](#Modo canvas)         
+
 ✔️ Notas adesivas e lembretes - [Notas Adesivas e Lembretes](#Notas Adesivas e Lembretes)
+
 ✔️ Desenho dentro das anotações - [Desenhos](#Desenhos)
+
 ✔️ Calendário - [Calendário](#Calendário)
+
 ✔️ Personalização do fundo das anotações - [Fundo Personalizado](#Fundos Personalizados)
+
 ✔️ Exportar para PDF, PNG ou texto - [Exportações](#Exportações)
+
 ✔️ Formatação de texto completa - [Formatação](#Formatação)
+
 ✔️ Pode inserir imagens e gravar áudios! - [Imagens e Áudios](#Imagens e Áudios )
+
 ✔️ Notas organizadas em pastas - [Pastas](#Pastas)
+
 ✔️ Listas - [Listas](#Listas)
+
 ✔️ Use de qualquer dispositivo - [Conectividade](#Conectividade)
+
 
 
 
