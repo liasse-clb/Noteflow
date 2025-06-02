@@ -2,8 +2,15 @@
 
  ![[Noteflow-logo (1).png]]
 
-Ao ver a minha necessidade por um bloco de notas que suprisse as minhas necessidades, testei e usei vários blocos de notas, porém sempre vi que faltava alguma coisa para que minhas anotações fossem perfeitas e que fosse possível organizar a minha vida da melhor maneira neste aplicativo.
-Quando eu usava um app de anotações sempre sentia falta de alguma função de outro app, então tive a ideia de reunir as funções que eu tanto queria em um único aplicativo. Assim nasceu o 
+Ao perceber minha necessidade por um bloco de notas que realmente suprisse minhas expectativas, comecei a testar diversos aplicativos.
+
+Mas sempre sentia que faltava alguma coisa para que minhas anotações fossem realmente completas e me ajudassem a organizar a vida da melhor forma possível.
+
+Cada app de anotações que eu usava tinha uma função que eu gostava, mas também deixava a desejar em outras. Foi aí que tive a ideia:
+
+Por que não reunir em um único aplicativo todas as funções que eu sempre procurei? 
+
+E assim nasceu o:
 
 <span style="color: #0055FF; font-size: 3rem; font-family: inter; font-weight: 900">NoteFlow!</span>
 #### NoteFlow é o aplicativo completo para as suas **anotações**: 
